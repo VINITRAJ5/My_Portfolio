@@ -1,0 +1,17 @@
+export const personalData = {
+  name: "Vineet Raj",
+  profile: '/profile.png',
+  designation: "Sr.Frontend Developer",
+  description: "My name is Vineet Raj.Looking for Opportunity as a Front-end Developer, having 3+ year experience in MNC Company, also I love to learn and explore new technologies and am passionate about problem-solving.With Key Skills- JavaScript,React.js,HTML5,CSS3,Tailwind,Redux,Router,Unit Testing.I am available for any kind of job opportunity that suits my skills and interests.",
+  email: 'vinitrajiit2016@gmail.com',
+  phone: '+917838282673',
+  address: 'Sector 10A,Gurgaon-122001 ',
+  github: 'https://github.com/VINITRAJ5',
+  linkedIn: 'https://www.linkedin.com/in/vineetrajsde/',
+  twitter: '',
+  facebook: '',
+  leetcode: "https://leetcode.com/u/vinitrajiit2016/",
+  stackOverflow: 'https://stackoverflow.com/users/14255582/vineet-raj',
+  devUsername: "",
+  resume: "https://drive.google.com/file/d/1a8Cf92T_NIQ13jY9MoFGXuTVRccaA-Jy/view?usp=sharing",
+}
