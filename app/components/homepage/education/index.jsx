@@ -6,6 +6,7 @@ import lottieFile from '../../../assets/lottie/study.json';
 import AnimationLottie from "../../helper/animation-lottie";
 //import GlowCard from "../../helper/glow-card";
 
+"use client";
 import dynamic from 'next/dynamic';
 
 const GlowCard = dynamic(() => import('../../helper/glow-card'), {
