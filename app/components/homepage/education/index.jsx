@@ -1,3 +1,5 @@
+
+"use client";
 // @flow strict
 import { educations } from "@/utils/data/educations";
 import Image from "next/image";
@@ -6,7 +8,6 @@ import lottieFile from '../../../assets/lottie/study.json';
 import AnimationLottie from "../../helper/animation-lottie";
 //import GlowCard from "../../helper/glow-card";
 
-"use client";
 import dynamic from 'next/dynamic';
 
 const GlowCard = dynamic(() => import('../../helper/glow-card'), {
