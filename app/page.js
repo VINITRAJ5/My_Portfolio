@@ -20,7 +20,6 @@ import Skills from "./components/homepage/skills";
       <Skills />
       <Projects />
       <Education />
-      <Blog/>
       <ContactSection />
     </div>
   )
