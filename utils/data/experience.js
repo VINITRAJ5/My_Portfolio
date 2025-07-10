@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: "Software Engineer",
     company: "Cognizant Technology Solutions",
-    duration: "(Jun 2022 - May 2024)"
+    duration: "(Jun 2022 - April 2024)"
   },
   {
     id: 3,
