@@ -2,7 +2,7 @@ export const personalData = {
   name: "Vineet Raj",
   profile: '/profile.png',
   designation: "Sr.Frontend Developer",
-  description: "My name is Vineet Raj.Looking for Opportunity as a Front-end Developer, having 3+ year experience in MNC Company, also I love to learn and explore new technologies and am passionate about problem-solving.With Key Skills- JavaScript,React.js,HTML5,CSS3,Tailwind,Redux,Router,Unit Testing.I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "Looking for Job in Front-end Developer,3.7+ year experience with MNC,Startup Comp.With Key Skills- (JavaScript,Typescript,React.js,Next.js,HTML5,CSS3,Tailwind,Redux,Testing,Jest,CI/CD,npm,node).Did B.Tech(CSE) from IPU.I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'vinitrajiit2016@gmail.com',
   phone: '+917838282673',
   address: 'Delhi NCR',
@@ -13,5 +13,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/vinitrajiit2016/",
   stackOverflow: 'https://stackoverflow.com/users/14255582/vineet-raj',
   devUsername: "",
-  resume: "https://drive.google.com/file/d/1199xQ1d79evvF0WWylz1I1lGseiugBk3/view?usp=sharing",
+  resume: "",
 }
