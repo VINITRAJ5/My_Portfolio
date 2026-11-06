@@ -4,14 +4,14 @@ export const experiences = [
   {
     id: 1,
     title: "Senior Software Engineer",
-    company: "Trigyn Technologies",
-    duration: "(Feb 2026 - Aug 2026)"
+    company: "FoxMech Pvt Ltd",
+    duration: "(May 2024 - Nov 2026)"
   },
   {
     id: 2,
     title: 'Frontend Developer',
-    company: "Foxmech Pvt Ltd",
-    duration: "(May 2024 - Jan 2026)"
+    company: "FoxMech(Under Trigyn)",
+    duration: "(May 2024 - Nov 2026)"
   },
   {
     id: 3,
