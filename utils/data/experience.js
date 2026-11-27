@@ -9,8 +9,8 @@ export const experiences = [
   },
   {
     id: 2,
-    title: 'Frontend Developer',
-    company: "FoxMech(Under Trigyn)",
+    title: 'Sr.Frontend Developer',
+    company: "FoxMech(Proj -2 Under Trigyn)",
     duration: "(May 2024 - Nov 2026)"
   },
   {
